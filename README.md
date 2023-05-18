@@ -1,1 +1,1 @@
-# python-qrcode-maker
+generates qr codes based on your url
